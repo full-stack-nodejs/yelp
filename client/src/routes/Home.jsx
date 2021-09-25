@@ -1,14 +1,14 @@
 import React from "react";
-import AddRestourants from "../components/AddRestourants";
+import AddRestaurants from "../components/AddRestaurants";
 import Header from "../components/Header";
-import RestourantList from "../components/RestourantList";
+import RestaurantList from "../components/RestaurantList";
 
 const Home = () => {
   return (
     <div>
       <Header />
-      <AddRestourants />
-      <RestourantList />
+      <AddRestaurants />
+      <RestaurantList />
     </div>
   );
 };

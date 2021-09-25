@@ -1,6 +1,6 @@
 import React from "react";
 
-const AddRestourants = () => {
+const AddRestaurants = () => {
   return (
     <div className="mb-4">
       <form action="">
@@ -32,4 +32,4 @@ const AddRestourants = () => {
   );
 };
 
-export default AddRestourants;
+export default AddRestaurants;
